@@ -7,26 +7,6 @@ My background combines open-source hardware fundamentals with industry experienc
 
 ---
 
-## 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmohamedkhaled&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mmohamedkhaled&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohamedkhaled&layout=compact&theme=radical&hide_border=true" alt="Mohamed's Top Languages" />
-</div>
-
-<!--
-  Note: the two cards above use the public github-readme-stats.vercel.app instance,
-  which is known to hit GitHub API rate limits or go down (see the project's own
-  README warning + open GitHub issues). If they stop rendering, deploy your own
-  free instance in ~5 min via the "Deploy on Vercel" button at
-  https://github.com/anuraghazra/github-readme-stats and swap in your own URL.
--->
-
----
-
 ## 🔬 Core Research & Technical Pillars
 * **AI & Hardware Security Intersection:** Machine learning attacks on physical/hardware primitives (e.g., Physical Unclonable Function modeling), automated hardware backdoor/Trojan verification, and agentic code auditing frameworks.
 * **Computer Architecture & Silicon Workflows:** RTL design (Verilog), processor design (RISC-V ISA), structural control unit FSMs, pipeline hazard mitigations, logic optimization, and memory-safe systems programming (Rust).
