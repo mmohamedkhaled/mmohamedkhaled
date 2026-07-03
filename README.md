@@ -1,17 +1,16 @@
 # Hi, I'm Mohamed Khaled 
 **Research Engineer | Aspiring PhD & Master Candidate in AI & Hardware Security**
 
-I am a multi-disciplinary researcher and systems engineer operating at the intersection of **Computer Architecture, Hardware Security, and Applied Artificial Intelligence**. My background bridges low-level silicon microarchitecture up to high-level autonomous agent frameworks and advanced neural reasoning models.
+I'm a systems engineer and researcher working at the intersection of **Computer Architecture, Hardware Security, and Applied AI** — bridging low-level silicon microarchitecture with high-level agentic and neural reasoning systems.
 
-With practical academic foundations aligned with open-source hardware paradigms and industry experience building agentic systems, I am focused on engineering next-generation secure intelligent hardware, auditing microarchitectural threat surfaces, and exploring machine learning vulnerabilities at the physical layer.
+My background combines open-source hardware fundamentals with industry experience building agentic systems. I focus on engineering secure intelligent hardware, auditing microarchitectural threat surfaces, and exploring ML vulnerabilities at the physical layer.
 
 ---
 
 ## 📊 GitHub Stats & Activity
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmohamedkhaled&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmohamedkhaled&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mmohamedkhaled&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
 </div>
 <br/>
 <div align="center">
@@ -21,7 +20,6 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ## 🔬 Core Research & Technical Pillars
-
 * **AI & Hardware Security Intersection:** Machine learning attacks on physical/hardware primitives (e.g., Physical Unclonable Function modeling), automated hardware backdoor/Trojan verification, and agentic code auditing frameworks.
 * **Computer Architecture & Silicon Workflows:** RTL design (Verilog), processor design (RISC-V ISA), structural control unit FSMs, pipeline hazard mitigations, logic optimization, and memory-safe systems programming (Rust).
 * **Applied Cryptography & Network Defense:** Secure-by-design cryptographic system deployment (authenticated symmetric encryption combined with asymmetric key wrapping models), topological threat graphing, and CVSS-driven risk derivation.
@@ -29,7 +27,6 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ## 💼 Industry Experience
-
 ### **Eden Tech Team** — *AI Engineering & Cloud Infrastructure Intern* (Jan 2026)
 * **Autonomous AI Agent System:** Co-architected and implemented a fully autonomous agent framework driven by Anthropic's Claude APIs. Engineered the orchestration layer to allow the agent to capture abstract user specifications, automatically generate code architectures, run native test suites, execute self-debugging loops, resolve environment dependencies, schedule internal tasks, and handle continuous multi-cloud deployment.
 * **Scalable Infrastructure & DevOps:** Built and optimized robust relational data infrastructure using PostgreSQL deployed on AWS RDS. Containerized microservice clusters via Docker to enforce cross-environment parity. Developed deep workflow automation routines using n8n deployed across hybrid AWS and Azure enterprise boundaries.
@@ -39,7 +36,6 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ## 🌟 Featured Projects Showcase
 
 ### ⚡ AI-Driven Hardware Security
-
 #### 🧩 [Arbiter PUF Modeling Attack](https://github.com/mmohamedkhaled/arbiter-puf-modeling-attack) *(Project Owner)*
 * Designed an offensive hardware evaluation suite focused on modeling **Arbiter Physical Unclonable Functions (PUFs)**.
 * Demonstrated the fragility of silicon delay-based security primitives by collecting Challenge-Response Pairs (CRPs) and utilizing mathematical machine learning models to simulate, map, and successfully clone the hardware fingerprint with high predictive accuracy.
@@ -47,11 +43,10 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ### 💻 Computer Architecture & Low-Level Systems
-
 #### ⚙️ [RISC-V 32I CPU Core](https://github.com/GM-Sniper/RISCV32I-CPU) *(Contributor & Co-Developer)*
 * Built a clean-room implementation of a 32-bit RISC-V processor conforming to the **RV32I ISA** specification from scratch using Verilog.
 * Implemented the underlying execution architecture including Arithmetic Logic Units (ALUs), structural control unit Finite State Machines (FSMs), and register file access logic.
-* Analyzed pipeline data hazards and microarchitectural bottlenecks—developing foundational knowledge on where physical side-channels and microarchitectural leaks manifest.
+* Analyzed pipeline data hazards and microarchitectural bottlenecks — developing foundational knowledge on where physical side-channels and microarchitectural leaks manifest.
 
 #### 🦀 [LPM-Rust](https://github.com/mmohamedkhaled/LPM-Rust) *(Project Owner)*
 * Engineered a high-performance, memory-safe implementation of the Longest Prefix Match (LPM) routing algorithm using **Rust**.
@@ -64,7 +59,6 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ### 🧠 Advanced Machine Learning & Deep Learning
-
 #### 📆 [Temporal News Reasoning](https://github.com/Abdallah-Afifi/temporal-news-reasoning) *(Contributor)*
 * Contributed to an advanced Natural Language Processing (NLP) framework built to test and expand cognitive temporal logic in Transformers.
 * Worked on dataset preprocessing pipelines, fine-tuning methodologies, and chronology-focused evaluation structures to stress-test large language models on tracking data consistency, causal chains, and timeline reconstruction.
@@ -75,7 +69,6 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ### 🛡️ Cryptography & Defensives
-
 #### 📦 [RansomVault-Lab](https://github.com/mmohamedkhaled/RansomVault-Lab) *(Project Owner)*
 * Developed a highly structured, educational python-based security toolkit simulating modern file-encryption frameworks.
 * Constructed a pristine hybrid cryptographic orchestration layer utilizing **AES-256-GCM** for authenticated file stream data encryption wrapped by **RSA-4096 (OAEP + SHA-256)** keys for secure asymmetric management.
@@ -89,20 +82,19 @@ With practical academic foundations aligned with open-source hardware paradigms 
 ---
 
 ## 🛠️ Technical Ecosystem & Toolkit
-
 ```text
 ┌─────────────────┬────────────────────────────────────────────────────────┐
-│ Languages       │ Python, Rust, Verilog, C, SQL, C++                     │
+│ Languages       │ Python, Rust, Verilog, C, SQL, C++                      │
 ├─────────────────┼────────────────────────────────────────────────────────┤
-│ AI & ML         │ PyTorch, Hugging Face, NetworkX, Pandas, NumPy, Jupyter│
+│ AI & ML         │ PyTorch, Hugging Face, NetworkX, Pandas, NumPy, Jupyter │
 ├─────────────────┼────────────────────────────────────────────────────────┤
-│ Systems & Cloud │ Docker, AWS (RDS/EC2), Azure, PostgreSQL, Git, n8n     │
+│ Systems & Cloud │ Docker, AWS (RDS/EC2), Azure, PostgreSQL, Git, n8n      │
 └─────────────────┴────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 📬 Let's Connect & Collaborate
-
 I am highly interested in discussing **PhD opportunities, collaborative research projects, or advanced engineering positions** in AI hardware optimization, microarchitectural security, or cryptographic hardware modeling.
 
 * 🌐 **LinkedIn:** [Mohamed Khaled](https://www.linkedin.com/in/mohamed-khaled-3ba258322/)
