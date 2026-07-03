@@ -17,6 +17,14 @@ My background combines open-source hardware fundamentals with industry experienc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohamedkhaled&layout=compact&theme=radical&hide_border=true" alt="Mohamed's Top Languages" />
 </div>
 
+<!--
+  Note: the two cards above use the public github-readme-stats.vercel.app instance,
+  which is known to hit GitHub API rate limits or go down (see the project's own
+  README warning + open GitHub issues). If they stop rendering, deploy your own
+  free instance in ~5 min via the "Deploy on Vercel" button at
+  https://github.com/anuraghazra/github-readme-stats and swap in your own URL.
+-->
+
 ---
 
 ## 🔬 Core Research & Technical Pillars
@@ -82,15 +90,12 @@ My background combines open-source hardware fundamentals with industry experienc
 ---
 
 ## 🛠️ Technical Ecosystem & Toolkit
-```text
-┌─────────────────┬────────────────────────────────────────────────────────┐
-│ Languages       │ Python, Rust, Verilog, C, SQL, C++                      │
-├─────────────────┼────────────────────────────────────────────────────────┤
-│ AI & ML         │ PyTorch, Hugging Face, NetworkX, Pandas, NumPy, Jupyter │
-├─────────────────┼────────────────────────────────────────────────────────┤
-│ Systems & Cloud │ Docker, AWS (RDS/EC2), Azure, PostgreSQL, Git, n8n      │
-└─────────────────┴────────────────────────────────────────────────────────┘
-```
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, Rust, Verilog, C, SQL, C++ |
+| **AI & ML** | PyTorch, Hugging Face, NetworkX, Pandas, NumPy, Jupyter |
+| **Systems & Cloud** | Docker, AWS (RDS/EC2), Azure, PostgreSQL, Git, n8n |
 
 ---
 
